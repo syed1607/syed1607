@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hello, I'm Syed Irfan
 
-<!--
-**syed1607/syed1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **AI Enthusiast \| Data Science Learner \| Machine Learning
+Explorer**
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+
+📍 **Hyderabad, India**\
+🎓 **MSc in Data Science --- GITAM University**\
+🎓 **BSc Computer Science --- Osmania University**\
+💼 **AI Intern --- Techsline**
+
+------------------------------------------------------------------------
+
+## 🧠 Skills & Technologies
+
+### 👨‍💻 Programming
+
+✔ Python\
+✔ SQL
+
+### 🤖 Artificial Intelligence & Data Science
+
+✔ Machine Learning (ML)\
+✔ Artificial Intelligence (AI)\
+✔ Deep Learning (DL)\
+✔ Natural Language Processing (NLP)\
+✔ Big Data Analytics (BDA)
+
+### 🗄️ Database & Systems
+
+✔ Database Management System (DBMS)
+
+------------------------------------------------------------------------
+
+## 🎯 What I Do
+
+✔ Build intelligent AI & ML models\
+✔ Work with data analysis and insights\
+✔ Develop data-driven solutions\
+✔ Explore new technologies in AI & Data Science
+
+------------------------------------------------------------------------
+
+## 🌱 Currently Learning
+
+🔹 Advanced Machine Learning\
+🔹 Deep Learning Applications\
+🔹 AI Automation\
+🔹 Data Engineering Concepts
+
+------------------------------------------------------------------------
+
+⭐ *Passionate about solving real-world problems using AI and Data
+Science.*
+
 -->
