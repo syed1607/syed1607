@@ -10,7 +10,7 @@ Explorer**
 📍 **Hyderabad, India**\
 🎓 **MSc in Data Science --- GITAM University**\
 🎓 **BSc Computer Science --- Osmania University**\
-💼 **AI Intern & Research Intern--- Neuron Robotics**
+💼 **Artificial Intelligence & Research Intern--- Neuron Robotics**
 
 ------------------------------------------------------------------------
 
