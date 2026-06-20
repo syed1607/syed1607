@@ -29,7 +29,7 @@ Explorer**
 ✔ Cassandra\
 ✔ Apache Hadoop
 
-### Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
 
 ✔ Numpy\
 ✔ Pandas\
@@ -40,7 +40,7 @@ Explorer**
 ✔ TensorFlow\
 ✔ Apache Spark
 
-### Platforms & Cloud Services
+### ☁️ Platforms & Cloud Services
 
 ✔ Amazon Web Services (AWS)\
 ✔ Microsoft Azure\
@@ -57,11 +57,26 @@ Explorer**
 ✔ Natural Language Processing (NLP)\
 ✔ Big Data Analytics (BDA)
 
+### 🛠️ Tools & Technologies
+
+✔ Git\
+✔ GitHub\
+✔ ETL Tools\
+✔ JIRA\
+✔ Microsoft PowerBI\
+✔ Tableau
+
 ### 🗄️ Database & Systems
 
 ✔ Database Management System (DBMS)
 
 ------------------------------------------------------------------------
+
+## 🏆 Certifications
+
+📜 Programming for Everybody (Michigan University), (Coursera)\
+📜 SQL Certification\
+📜 Python Certification
 
 ## 🎯 What I Do
 
