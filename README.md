@@ -21,11 +21,39 @@ Explorer**
 ✔ Python\
 ✔ SQL
 
+### 🗄️ Databases
+
+✔ MySQL\
+✔ MongoDB\
+✔ PostgreSQL\
+✔ Cassandra\
+✔ Apache Hadoop
+
+### Frameworks & Libraries
+
+✔ Numpy\
+✔ Pandas\
+✔ Matplotlib\
+✔ PyTorch\
+✔ Scikit Learn\
+✔ Seaborn\
+✔ TensorFlow\
+✔ Apache Spark
+
+### Platforms & Cloud Services
+
+✔ Amazon Web Services (AWS)\
+✔ Microsoft Azure\
+✔ Jupyter Notebook\
+✔ Visual Studio Code\
+✔ Big Data Analytics (BDA)
+
 ### 🤖 Artificial Intelligence & Data Science
 
 ✔ Machine Learning (ML)\
 ✔ Artificial Intelligence (AI)\
 ✔ Deep Learning (DL)\
+✔ Cloud Computing (CC)\
 ✔ Natural Language Processing (NLP)\
 ✔ Big Data Analytics (BDA)
 
